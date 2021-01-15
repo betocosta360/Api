@@ -1,4 +1,4 @@
-const Setor = require('../models/setorModels')
+const Setor = require('../models/setorModel')
 const setorController = {
     getSetor: async (req, res) => {
         try {
